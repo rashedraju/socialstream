@@ -1,0 +1,2 @@
+# SocialStream
+SocialStream is a social media web app build on Laravel, This includes features such as News Feed, Authentication, posting text, adding or removing friends, Eloquent One to Many and Many to One Relationship and more.
